@@ -1,6 +1,6 @@
 // App.jsx
 
-import ProductList from "./ProductList";
+import ProductList from "../ProductList";
 import "./App.css";
 
 function App() {
